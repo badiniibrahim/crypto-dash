@@ -46,9 +46,3 @@ For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Contributors
-
-<a href="https://github.com/badiniibrahim/flutter-app-crypto-dash/graphs/contributors">
-  <img alt="List of contributors to this repository" src="https://contrib.rocks/image?repo=badiniibrahim/flutter-app-crypto-dash" />
-</a>
-
