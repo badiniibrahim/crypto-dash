@@ -1,5 +1,5 @@
 # Build and Deploy: Flutter application
-This is a repository for a Flutter application
+This is a repository for a Flutter application. The primary objective of the application is to provide an exhaustive and constantly updated list of cryptocurrencies available on the market, accompanied by detailed information relating to each of them.
 
 <h1 align="center">
   SAWADOGO Badini Ibrahim
