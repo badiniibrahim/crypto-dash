@@ -12,7 +12,6 @@ This is a repository for a Flutter application
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badini-ibrahim-s-306b119b/)
 
 ## About this Repository
-
 ![GitHub language count](https://img.shields.io/github/languages/count/badiniibrahim/flutter-app-crypto-dash)
 ![GitHub top language](https://img.shields.io/github/languages/top/badiniibrahim/flutter-app-crypto-dash)
 ![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/flutter-app-crypto-dash)
